@@ -1,4 +1,4 @@
-# 
+# vip perpetual trading bot Plugin | arbitrage-scanning + latency-optimization offers the most advanced perpetual trading bot, with arbitrage-scanning and latency-optimization.
 
 
 
